@@ -1,9 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/thesaltgroup/.github/blob/1c128a7b107fb21ebd59c7e779ea625e5ba80486/assets/logo.png">
-  <img alt="paradigm logo" src="https://github.com/thesaltgroup/.github/blob/1c128a7b107fb21ebd59c7e779ea625e5ba80486/assets/logo.png" width="auto" height="120">
+  <img alt="paradigm logo" src="https://github.com/thesaltgroup/.github/blob/1c128a7b107fb21ebd59c7e779ea625e5ba80486/assets/logo.png" width="auto" height="80">
 </picture>
-<br/>
-<br/>
 <br/>
 <br/>
 
