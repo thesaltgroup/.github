@@ -7,9 +7,9 @@ to the operational (recruiting, regulatory strategy).
 This Github Organization hosts all of Paradigm's open source experiments, designs, and production-ready code.
 
 We have three divisions:
-* [tsg.capital](https://github.com/paradigmxyz/reth)
-* [tsg.trading](https://github.com/foundry-rs/foundry/)
-* [tsg.labs](https://github.com/alloy-rs/)
+* [capital](https://github.com/paradigmxyz/reth)
+* [trading](https://github.com/foundry-rs/foundry/)
+* [labs](https://github.com/alloy-rs/)
   
 You can find our [research at the Paradigm website](https://www.paradigm.xyz/writing).
 
