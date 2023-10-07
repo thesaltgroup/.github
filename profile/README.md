@@ -3,7 +3,7 @@
   <img alt="paradigm logo" src="https://github.com/thesaltgroup/.github/blob/1c128a7b107fb21ebd59c7e779ea625e5ba80486/assets/logo.png" width="auto" height="120">
 </picture>
 
-[tsg](https://paradigm.xyz/) is an engineering oriented investment firm that invests in what matters to humanity. Our approach is flexible, long term, multi-stage, and global.
+[Paradigm](https://paradigm.xyz/) is a research-driven technology investment firm. Our approach is flexible, long term, multi-stage, and global.
 We often get involved at the earliest stages of formation and continue supporting our portfolio companies over time.
 
 We take a deeply hands-on approach to help projects reach their full potential, from the technical (mechanism design, security, engineering) 
