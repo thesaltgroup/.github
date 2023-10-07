@@ -7,9 +7,9 @@ to the operational (recruiting, regulatory strategy).
 This Github Organization hosts all of Paradigm's open source experiments, designs, and production-ready code.
 
 Among other things, we are currently building:
-* [capital](https://github.com/paradigmxyz/reth): Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
-* [trading](https://github.com/foundry-rs/foundry/): A fast, portable and modular toolkit for Ethereum application development written in Rust.
-* [labs](https://github.com/alloy-rs/): High-performance, well-tested & documented libraries for interacting with Ethereum and other EVM-based chains, in Rust.
+* [capital](https://github.com/paradigmxyz/reth)
+* [trading](https://github.com/foundry-rs/foundry/)
+* [labs](https://github.com/alloy-rs/)
   
 You can find our [research at the Paradigm website](https://www.paradigm.xyz/writing).
 
